@@ -108,7 +108,7 @@ A. Pramod Kumar, K. Cherukuri, V. T. Chintala, K. P. Saffronia and **A. Rajavara
 
 ## Education & Teaching
 
-**B.Tech, Computer Science and Engineering (Cyber Security)** — VNR Vignana Jyothi Institute of Engineering and Technology, Hyderabad · 2021–2
+**B.Tech, Computer Science and Engineering (Cyber Security)** — VNR Vignana Jyothi Institute of Engineering and Technology, Hyderabad · 2021–2025
 
 ---
 
