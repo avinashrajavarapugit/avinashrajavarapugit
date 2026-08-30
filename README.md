@@ -108,9 +108,7 @@ A. Pramod Kumar, K. Cherukuri, V. T. Chintala, K. P. Saffronia and **A. Rajavara
 
 ## Education & Teaching
 
-**B.Tech, Computer Science and Engineering (Cyber Security)** — VNR Vignana Jyothi Institute of Engineering and Technology, Hyderabad · 2021–2025
-
-DSA Mentor for the Smart Interviews programme at VNR VJIET (Jan–Dec 2024), running structured problem sets and code review for **200+ junior students**. Technical Head of VJ Garuda Vigilance, the department's student-led cybersecurity chapter (2024–2025).
+**B.Tech, Computer Science and Engineering (Cyber Security)** — VNR Vignana Jyothi Institute of Engineering and Technology, Hyderabad · 2021–2
 
 ---
 
