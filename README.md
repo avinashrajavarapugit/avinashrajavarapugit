@@ -117,5 +117,5 @@ A. Pramod Kumar, K. Cherukuri, V. T. Chintala, K. P. Saffronia and **A. Rajavara
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash6302/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=framer&logoColor=white)](https://avinashrajavarapu.framer.website/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/avinashrajav/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rajavarapu.avinash)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rajavarapu.avinas)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rajavarapu.avinash@gmail.com)
