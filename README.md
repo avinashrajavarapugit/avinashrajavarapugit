@@ -56,7 +56,7 @@ More: [Weather Forecast Monitoring](https://github.com/avinashrajavarapugit/Weat
 | Platform | Result |
 | :--- | :--- |
 | **LeetCode** | Guardian — contest rating **2310**, top **0.51%**, 1,122 problems solved |
-| **Codeforces** | Max **Expert (1734)**, currently Specialist (1492), 364 problems solved |
+| **Codeforces** | Max **Expert (1734)**, currently Specialist (1592), 364 problems solved |
 | **Meta Hacker Cup 2025** | Round 1 — **AIR 101** (global 666) among 9,000+ participants |
 | **IICPC Quantfest 2025** | **AIR 48** among 8,000+ participants |
 | **IICPC Codefest 2026** | Problem setter, 10,000+ participants |
